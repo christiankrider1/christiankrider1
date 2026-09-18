@@ -1,68 +1,87 @@
-# I'm Christian Krider
+# 👋 Hey, I'm Christian Krider
 
 ### Computer Science Student • Software Engineering • DevOps & Automation
 
-I'm a Computer Science student at the University of the People building toward a career in software engineering.
+I'm a Computer Science student at the University of the People working toward a career in software engineering.
 
-I enjoy working on applications, developer tooling, automation, and the systems that help software get tested, reviewed, and shipped reliably.
-
-```text
-Currently learning → Software Engineering • Data Structures • Algorithms
-Currently building → Applications • Automation • Developer Tooling
-Currently improving → Java • Python • Linux • GitHub Actions
-```
+I enjoy building applications, learning how systems work, and automating the repetitive parts of development. I've also gained hands-on experience contributing to real-world, multi-repository software projects through QA, CI/CD, GitHub automation, and release workflows.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Languages**
+### Languages
 
 `Java` `Python` `JavaScript` `SQL` `Rust`
 
-**Development**
+### Development
 
 `Git` `GitHub` `VS Code` `Linux` `WSL`
 
-**DevOps & Automation**
+### DevOps & Automation
 
-`GitHub Actions` `Docker` `CI/CD` `GitHub API`
+`GitHub Actions` `Docker` `BuildKit` `CI/CD` `GitHub API` `GitHub CLI`
 
-**Application Development**
+### Frameworks & Technologies
 
 `Java Swing` `REST APIs` `WebSockets` `WebRTC`
 
 ---
 
-## ⚙️ What I've Been Working On
+## ⚙️ Team Engineering & DevOps
 
-### 🔄 DevOps & Release Engineering
+Through my work with **Team-Deepiri**, I've contributed across application development, QA, release workflows, and developer tooling in a large multi-repository environment.
 
-Through my work with Deepiri, I've worked across a large multi-repository development environment, helping with QA, release workflows, GitHub Actions, branch promotion, merge/conflict resolution, and repository automation.
+Some of the work I've gotten hands-on with:
 
-Some of the work I've gotten hands-on with includes:
-
-* Automating development-to-main workflows across many repositories
-* Working with GitHub's API and GitHub CLI
-* Reviewing and troubleshooting GitHub Actions workflows
-* Working with Docker and containerized development
-* Investigating CI/CD failures and workflow behavior
-* Resolving Git merge conflicts across development branches
-* Performing QA reviews and validating pull requests
-* Working with Python-based development tooling
-* Maintaining Git hooks, submodules, and repository configuration
+* 🔄 Development-to-main branch promotion automation across 60+ repositories
+* 🤖 Python-based GitHub API automation and developer tooling
+* ⚙️ GitHub Actions workflow reviews, troubleshooting, and optimization
+* 🧪 Pull request QA, testing, and release validation
+* 🔀 Git merge conflict resolution and branch synchronization
+* 🐳 Docker, BuildKit, and containerized development
+* 🔧 Git submodules, hooks, and repository configuration
+* 🛠️ CI/CD debugging and workflow maintenance
+* 📦 Release and package management workflows
+* 🧠 Contributions to the Deepiri Memorymesh project, including terminal UI development
 
 ---
 
-## 💻 Projects
+## 🧠 Deepiri Memorymesh
+
+**Team Project • TUI • Collaborative Development**
+
+Memorymesh is a team-developed project within the Deepiri ecosystem.
+
+I've contributed to the existing codebase while working on terminal user interface development, debugging, and improvements.
+
+**19 contributions** to the repository, making me one of its most active contributors outside of the repository owner.
+
+→ [View Memorymesh](https://github.com/Team-Deepiri/deepiri-memorymesh)
+
+---
+
+## 💻 Personal Projects
 
 ### 🎓 CourseFlow-GUI
 
-**Java • Swing • Object-Oriented Programming**
+**Java • Swing • OOP**
 
 A Java desktop application for managing students, courses, enrollment, and grades through a graphical user interface.
 
-Built from the ground up while developing my understanding of Java, Swing, classes, objects, and application structure.
+Built from the ground up while developing my understanding of Java, Swing, object-oriented programming, and application structure.
+
+→ [View Project](https://github.com/christiankrider1/CourseFlow-GUI)
+
+---
+
+### 🎰 Blackjack
+
+**Java • OOP**
+
+A console-based Blackjack game I'm building while strengthening my Java fundamentals.
+
+The project covers classes, enums, collections, game state, user input, card and deck management, scoring, dealer logic, betting, and game flow.
 
 ---
 
@@ -74,57 +93,17 @@ A browser-based work-hours tracker built around practical scheduling and pay cal
 
 Features include work-hour tracking, break management, bi-weekly pay periods, overtime calculations, persistent browser storage, and a responsive interface.
 
+→ [View Project](https://github.com/christiankrider1/ShiftOS)
+
 ---
 
 ### 📋 Taskflow
 
 **JavaScript • HTML • CSS**
 
-A productivity and fitness tracking application with task management, recurring tasks, reminders, streak tracking, notifications, and persistent local storage.
+A productivity and fitness tracking application featuring task management, recurring tasks, reminders, streak tracking, notifications, and persistent local storage.
 
----
-
-### 🎰 Blackjack
-
-**Java • Object-Oriented Programming**
-
-A console-based Blackjack game I'm building while strengthening my Java fundamentals.
-
-The project covers classes, enums, collections, game state, user input, card/deck management, scoring, dealer logic, and game flow.
-
----
-
-## 🧪 Currently Learning
-
-* Data structures and algorithms
-* Object-oriented design
-* Software engineering principles
-* SQL and relational databases
-* Linux development
-* Git and GitHub
-* CI/CD
-* Docker and containerized applications
-* Testing and debugging
-
----
-
-## 📈 My Development Focus
-
-```text
-Write Code
-    ↓
-Test It
-    ↓
-Automate It
-    ↓
-Review It
-    ↓
-Ship It
-    ↓
-Improve It
-```
-
-I'm especially interested in the connection between **software development and reliable delivery** — not just writing an application, but understanding how it gets tested, automated, maintained, and shipped.
+→ [View Project](https://github.com/christiankrider1/Taskflow-App)
 
 ---
 
@@ -134,7 +113,29 @@ I'm especially interested in the connection between **software development and r
 
 Bachelor of Science in Computer Science
 
-Currently pursuing my degree while building projects and gaining hands-on development experience.
+Currently pursuing my degree while building projects and gaining hands-on software engineering experience.
+
+---
+
+## 📚 Currently Learning
+
+* Data structures & algorithms
+* Object-oriented design
+* Software engineering principles
+* SQL & relational databases
+* Linux development
+* Git & GitHub
+* CI/CD
+* Docker & containerized applications
+* Testing and debugging
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiankrider1\&show_icons=true\&hide_border=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiankrider1\&layout=compact\&hide_border=true\&theme=tokyonight)
 
 ---
 
@@ -144,4 +145,4 @@ Currently pursuing my degree while building projects and gaining hands-on develo
 
 ---
 
-> Building, breaking, debugging, and learning one project at a time. 🚀
+> Building, debugging, automating, and learning one project at a time. 🚀
