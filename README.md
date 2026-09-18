@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Christian Krider
+# Hey, I'm Christian Krider
 
 ### Computer Science Student • Software Engineering • DevOps & Automation
 
