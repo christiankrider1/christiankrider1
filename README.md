@@ -129,13 +129,6 @@ Currently pursuing my degree while building projects and gaining hands-on softwa
 * Docker & containerized applications
 * Testing and debugging
 
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiankrider1\&show_icons=true\&hide_border=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiankrider1\&layout=compact\&hide_border=true\&theme=tokyonight)
 
 ---
 
