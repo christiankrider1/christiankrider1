@@ -83,6 +83,8 @@ A console-based Blackjack game I'm building while strengthening my Java fundamen
 
 The project covers classes, enums, collections, game state, user input, card and deck management, scoring, dealer logic, betting, and game flow.
 
+→ [View Project](https://github.com/christiankrider1/Blackjack)
+
 ---
 
 ### ⏱️ ShiftOS
